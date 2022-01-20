@@ -1,0 +1,16 @@
+/* styles.css */
+
+* {
+      background-color: beige;
+      font-weight: 400;
+      color: #212529;
+      text-align: left;     
+     }
+
+h1 {
+    font-weight: 700;
+   }
+img {
+    height: auto;
+    width: 500px;
+    }
